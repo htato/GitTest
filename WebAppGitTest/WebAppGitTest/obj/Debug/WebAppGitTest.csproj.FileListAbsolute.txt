@@ -1,0 +1,5 @@
+C:\Projects\WebAppGitTest\WebAppGitTest\bin\WebAppGitTest.dll.config
+C:\Projects\WebAppGitTest\WebAppGitTest\bin\WebAppGitTest.dll
+C:\Projects\WebAppGitTest\WebAppGitTest\bin\WebAppGitTest.pdb
+C:\Projects\WebAppGitTest\WebAppGitTest\obj\Debug\WebAppGitTest.dll
+C:\Projects\WebAppGitTest\WebAppGitTest\obj\Debug\WebAppGitTest.pdb
