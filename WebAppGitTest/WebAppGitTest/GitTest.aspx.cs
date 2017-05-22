@@ -17,6 +17,7 @@ namespace WebAppGitTest
                 cbTest.Text = "Unchecked";
                 //teste para commit
                 //teste 2
+                //teste 3
             }
 
         }
